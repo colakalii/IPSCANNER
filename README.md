@@ -1,4 +1,4 @@
-# ScriptsForMe
+# IP Scan Script
 
 Here we are, the first scripts and official repo from me.
 
